@@ -1,0 +1,479 @@
+@media screen and (max-width: 1199px) {
+	.head__title_bolgariya {
+    margin-left: 23px;
+}
+.heading__title {
+    line-height: 62px;
+}
+	.discr_wrap {
+		padding: 0;
+	}
+	.about__wrap {
+		width: 100%;
+	}
+	.comment__name {
+		margin-right: 9px;
+	}
+	.adventage__item {
+		height: 400px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+.padd_r {
+	padding-right: 0;
+}
+
+	.director__victor {
+		padding-bottom: 132px;
+	}
+nav {
+	margin-left: -52px;
+
+}
+.nav__item a {
+    font-size: 12px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.55;
+    text-transform: uppercase;
+    padding: 11px 11px 8px 11px;
+    text-decoration: none;
+    white-space: nowrap;
+    position: relative;
+    letter-spacing: 1px;
+    display: block;
+    cursor: pointer;
+    text-align: left;
+    color: #ffffff;
+}
+}
+
+@media screen and (max-width: 786px) {
+.contact__form {
+    width: 80%;
+}
+.contact__tel {
+	background: url('../img/contact___phone.png') center top no-repeat;
+	padding-top: 60px;
+	text-align: center;
+	padding-left: 0;
+	margin-bottom: 40px;
+}
+.contact__mail {
+	background: url('../img/dog.png') center top no-repeat;
+	padding-top: 60px;
+	text-align: center;
+	padding-left: 0;
+	margin-bottom: 40px;
+}
+.contact__skype {
+	background: url('../img/skype.png') center top no-repeat;
+	padding-top: 60px;
+	text-align: center;
+	padding-left: 0;
+	margin-bottom: 40px;
+}
+.contact__text {
+	text-align: center;
+}
+
+	.contact__form {
+		float: none;
+		margin: 0 auto;
+		width: 100%;
+
+	}
+	.contact__data {
+	width: 100%;
+	height: 468px;
+	padding-top: 0;
+	float: none;
+	height: auto;
+	margin: 0 auto;
+}
+}
+
+@media screen and (max-width: 991px) {
+
+	.navigation {
+		display: none;
+	}
+	.nav__item a {
+		text-align: center;
+	}
+	.menu .nav__item {
+		display: block;
+		padding: 10px 0;
+		text-align: center;
+		color: #ffffff;
+		float: none;
+	}
+	.menu__icon{
+		display: block;
+  }
+ .nav__wrap {
+ 	margin-top: 0;
+ }
+	.menu {
+		position: absolute;
+    display: none;
+    opacity: 0;
+    top: 0;
+    width: 100%;
+    right: 0;
+    margin-top: 77px;
+    background-color: rgba(11, 55, 83, 0.9);
+    z-index: 1000;
+    overflow: auto;
+	}
+	.head__gamburger, .head__gamburger i {
+		display: block;
+	}
+	.bx-wrapper .bx-next {
+    right: -70px;
+    background: url('../img/arrow__right.png') no-repeat !important;
+    }
+
+  .bx-wrapper .bx-prev {
+    left: -46px;
+    background: url('../img/arrow__left.png')no-repeat !important;
+
+}
+
+	
+	.heading__title {
+		margin-bottom: 105px;
+	}
+	.realty__title {
+		margin-bottom: 55px;
+	}
+		.about__wrap {
+		background-color: #fff;
+		box-shadow: none;
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.row__posintion {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.about>.container {
+		width: 100%;
+	}
+	.director__igor, .director__victor {
+		width: 100%;
+	}
+	.director__igor {
+		margin-bottom: 20px;
+	}
+	.director__victor {
+		padding-bottom: 39px;
+	}
+	.diretors {
+		padding: 60px 25px 74px 25px;
+	}
+
+
+.phone__footer {
+	display: none;
+}
+.comment__add {
+	display: block;
+}
+.comment__text {
+	margin-top: 20px;
+}
+.comment__arrow_left {
+	margin-left: -53px;
+}
+.adventage__item_size-padding {
+	padding-bottom: 103px;
+}
+.adventage__item {
+	height: auto;
+}
+ .reloc, .form, .home, .adventage  {
+	padding-top: 66px;
+	padding-bottom: 66px;
+}
+.comment
+
+.home__sect2 {
+	margin-bottom: 66px;
+}
+.adventage__item_size-margin {
+	margin-top: 22px;
+	text-align: center;
+	padding:24px 205px 60px 205px;
+}
+
+
+.head__title_bolgariya {
+	font-size: 64px;
+	margin-left: ;
+	margin-bottom: 174px;
+}
+.heater__title_size {
+	font-size: 44px;
+}
+.contact {
+    padding: 42px 60px 62px 71px;
+}
+.contact__form {
+		height: auto;
+	}
+	.comment {
+    padding-bottom: 107px;
+    padding-top: 58px;
+}
+.comment__title {
+    margin-bottom: 70px;
+}
+}
+@media screen and (max-width: 868px) {
+	.bx-prev, .bx-next {
+		display: none;
+	}
+	.realty {
+    padding: 42px 20px 82px 20px;
+}
+	.realty {
+		padding-bottom: 0;
+		margin-bottom: 44px;
+	}
+@media screen and (max-width: 768px) {
+	.content__wrapper {
+		padding-top: 148px;
+		background: url('../img/comment.png') center top no-repeat;
+	}
+	.relty__disr_2, .relty__disr_1 {
+		text-align: center;
+
+	}
+	
+	.relty__disr_1 {
+		margin-bottom: 30px;
+	}
+	.adventage__item_size-padding {
+		padding-bottom: 60px;
+	}
+	.heading {
+		padding-bottom: 28px;
+	}
+	
+	.about__first, .diretors {
+	}
+	.about {
+		background-color: #fff;
+	}
+	.about__wrap {
+		background-color: #fff;
+		box-shadow: none;
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.content__wrapper {
+		padding-bottom: 47px;
+		padding-right: 41px;
+		padding-left:41px;
+	}
+	.comment__photo {
+		left: 50%;
+		margin-left: -71px;
+		top: -140px;
+	}
+	.comment__text {
+		text-align: center;
+	}
+	.comment__data div {
+
+		display: block;
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+
+	}
+	.comment__arrow_left, .comment__arrow_right {
+		display: none;
+	}
+	.adventage__item_size-margin {
+		padding: 27px 32px 60px 32px;
+	}
+		h1, .head__title_bolgariya {
+		margin-left: 12px;
+	}
+	.item__text_size {
+		width: 100%;
+	}
+	.adventage__item {
+		width: 80%;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+
+	.footer__confidentialiti {
+		display: none;	
+	}
+	.footer__right {
+		display: inline-block;
+		float: right;
+	}
+
+}
+@media screen and (max-width: 680px) {
+	h1, .head__title_bolgariya {
+		letter-spacing: 18.4px;
+	}
+	.heater__title_size  {
+		letter-spacing: 6.2px;
+	}
+
+}
+@media screen and (max-width: 580px) {
+	.box-modal {
+		width: 90%;
+		margin: 0 auto;
+	}
+	.contact {
+    padding: 42px 20px 62px 20px;
+}
+	.diretors, .about__first {
+		padding-left: 18px;
+		padding-right: 18px;
+	}
+}
+@media screen and (max-width: 630px) {
+	.heading__title {
+		font-size: 37px;
+		letter-spacing: 4.4px;
+	}
+}
+@media screen and (max-width: 520px) {
+	
+	h1, .head__title_bolgariya {
+		letter-spacing: 13.4px;
+		letter-spacing: 7.4px;
+		font-size: 41px;
+	}
+	h2, .reloc__title, .form__title, .adventage__title  {
+		letter-spacing: 1.2px;
+		font-size: 34px;
+	}
+	.heater__title_size {
+		font-size: 25px;
+		letter-spacing: 4.2px;
+		margin-left: -12px;
+	}
+	.phone {
+		display: none;
+	}
+}
+@media screen and (max-width: 450px) {
+	.contact__form {
+    height: auto;
+}
+.heading__title {
+		font-size: 27px;
+		letter-spacing: 4.4px;
+	}
+	}
+	.home__sect1 {
+		padding:58px 23px 34px 23px;
+	}
+	.adventage__item {
+		width: 100%;
+	}
+	.input, .form__button {
+		width: 90%;
+	}
+	.logo__img {
+		float: none;
+		margin: 0 auto;
+	}
+}
+@media screen and (max-width: 350px) {
+	.form__button {
+    font-size: 13px;}
+	.content__wrapper {
+		padding-bottom: 30px;
+		padding-right: 0px;
+		padding-left:0px;
+	}
+	.contact__form_text{
+		font-size: 15px;
+	}
+	 .box-bodal_two h2 {
+	 	font-size: 28px;
+	 	margin-left: auto;
+	 	margin-right: auto;
+	 }
+	.box-bodal_two {
+	 	padding: 15px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		width: 95%;
+	 }
+	h1, .head__title_bolgariya {
+    margin-left: 4px;
+}
+.home__sect1_img {
+    background: url('../img/sea.jpg');
+    width: 257px;
+    display: block;
+    position: absolute;
+    height: 167px;
+    top: -113px;
+    left: 50%;
+    margin-left: -129px;
+}
+	.director__igor, .director__victor {
+		padding: 37px 23px 39px  23px;
+	}
+
+	}
+	@media screen and (max-width: 320px) {
+		.director__igor, .director__victor {
+			padding: 37px 23px 39px  23px;
+		}
+
+
+элемент {
+
+}
+.home__title {
+
+    margin-bottom: 148px;
+
+}
+h2, .reloc__title, .form__title, .adventage__title {
+
+    letter-spacing: 1px;
+    font-size: 27px;
+    width: 100%;
+
+}
+		.col__size {
+			padding-left: 0; 
+			padding-right: 0;
+		}
+		.form__button {
+    letter-spacing: 0.5px;
+}
+.director__title{
+	letter-spacing: 1.9px;
+	font-size: 28px;
+}
+		.heading__title {
+			font-size: 26px;
+			letter-spacing: 2.4px;
+		}
+		
+	}
