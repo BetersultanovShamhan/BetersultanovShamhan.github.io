@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="468px" height="85px" viewBox="0 0 468 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>lenta</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Webflow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-266.000000, -5378.000000)">
+        <g id="lenta" transform="translate(266.000000, 5378.000000)">
+            <polygon id="Rectangle-16-Copy" fill="#77622D" transform="translate(41.000000, 55.000000) scale(-1, 1) translate(-41.000000, -55.000000) " points="0 26 82 26 63.7777778 55 82 84 0 84"></polygon>
+            <polygon id="Path-3" fill="#CB9D2F" points="56 58 81.875 85 83 58"></polygon>
+            <polygon id="Rectangle-16" fill="#9E6628" points="386 26 468 26 449.777778 55 468 84 386 84"></polygon>
+            <polygon id="Path-3-Copy" fill="#BE7726" transform="translate(398.500000, 71.500000) scale(-1, 1) translate(-398.500000, -71.500000) " points="385 58 410.875 85 412 58"></polygon>
+            <rect id="Rectangle-15" fill="#F7921F" x="56" y="0" width="357" height="58"></rect>
+        </g>
+    </g>
+</svg>
